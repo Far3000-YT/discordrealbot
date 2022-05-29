@@ -1621,4 +1621,4 @@ async def nuke(ctx):
 
 #Run------------------------------------------------------------------------------------------
 
-client.run(os.environ('DISCORD_TOKEN'))
+client.run(os.environ['DISCORD_TOKEN'])
