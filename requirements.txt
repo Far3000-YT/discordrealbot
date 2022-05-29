@@ -1,0 +1,4 @@
+async-timeout==3.0.1
+DateTime==4.4
+discord==1.7.3
+discord.py==1.7.3
