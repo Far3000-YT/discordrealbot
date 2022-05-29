@@ -3,7 +3,6 @@ from re import M
 from sqlite3 import Timestamp
 import discord
 from discord.ext import commands
-from hikari import Intents
 import datetime
 import time
 import os
